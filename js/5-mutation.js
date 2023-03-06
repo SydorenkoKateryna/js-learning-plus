@@ -68,5 +68,3 @@ person4.name = "Jonson";
 
 console.log(person.name); // Bob
 console.log(person4.name); // Jonson
-
-console.log("-----------------7---------------------");
